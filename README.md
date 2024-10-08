@@ -63,12 +63,12 @@ Naive Bayes classifier applies Bayes' Theorem for classification, assuming that 
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/ml-algorithms-from-scratch.git
+    https://github.com/jrspatel/ML_ALGORITHMS.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd ml-algorithms-from-scratch
+    cd ML_ALGORITHMS
     ```
 
 3. Install the required dependencies:
