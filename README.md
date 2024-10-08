@@ -37,6 +37,7 @@ Linear regression is used to predict the relationship between a dependent variab
 - Gradient Descent optimization
 - Mean Squared Error loss function
 
+
 ### 2. **Logistic Regression**
 Logistic Regression is used for binary classification tasks by applying a sigmoid function to model probabilities. The implementation includes:
 - Sigmoid function for prediction
@@ -71,10 +72,6 @@ Naive Bayes classifier applies Bayes' Theorem for classification, assuming that 
     cd ML_ALGORITHMS
     ```
 
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ---
 
@@ -82,8 +79,11 @@ Naive Bayes classifier applies Bayes' Theorem for classification, assuming that 
 
 Each algorithm is implemented in a separate Python file. You can run the algorithms using a sample dataset by executing the scripts as shown below:
 
-### Linear Regression
 
 ```bash
 python linear_regression.py
+python logistic_regression.py
+python naive_bayes.py
+```
+
 
