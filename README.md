@@ -10,11 +10,9 @@ This repository contains Python implementations of three fundamental machine lea
 
 - [Overview](#overview)
 - [Implemented Algorithms](#implemented-algorithms)
-- [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
